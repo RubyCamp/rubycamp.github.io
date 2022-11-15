@@ -1,0 +1,29 @@
+---
+layout: page
+title: 合宿ブログ
+hero_image: /image/banners/banner_blog.png
+hero_height: is-medium
+---
+
+<h3 class="block">
+  <span class="icon-text">
+    <span class="icon">
+      <i class="fas fa-blog"></i>
+    </span>
+    <span>合宿ブログ</span>
+  </span>
+</h3>
+
+<div class="notification is-info is-light">
+  旧サイトの「合宿ブログ」は、<a href="https://old.rubycamp.jp/blog/">こちら</a>からご覧できます。
+</div>
+
+{% assign blog_by_date = site.blog | sort: "date" %}
+{% for blog in blog_by_date reversed %}
+<hr class="title-list"/>
+  <div class="title-list">
+    <small>{{ blog.date | date: "%Y年%m月%d日" }}</small><br/>
+    <a href="{{ blog.url }}">{{ blog.title }}</a>
+  </div>
+{% endfor %}
+<hr class="title-list-last"/>

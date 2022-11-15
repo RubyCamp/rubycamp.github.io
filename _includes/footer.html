@@ -1,0 +1,85 @@
+<footer class="footer">
+    <div class="container">
+        
+        {% if site.footer_menu %}
+        <div class="footer-menu columns is-multiline">
+            {% for item in site.data[site.footer_menu] %}
+            <div class="column has-text-centered">
+                <div>
+                    <a href="{{ item.link | relative_url }}" class="link">{{ item.name }}</a>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        {% endif %}
+
+        <div class="columns is-multiline">
+            <div class="column is-half has-text-left">
+                <div>
+                    <div><p><strong>島根県 商工労働部 産業振興課 情報産業振興室</strong></p></div>
+                    <div><p>〒690-8501 島根県松江市殿町1番地</p></div>
+                    <div><p>TEL: 0852-22-6220 / FAX: 0852-22-5638</p></div>
+                    <div><p>Mail: sangyo-shinko@pref.shimane.lg.jp</p></div>
+                </div>
+            </div>
+            <div class="column is-small has-text-left">
+                <div>
+                    <div><p><strong>Ruby合宿関連リンク</strong></p></div>
+                    <div class="icon-text">
+                        <span class="icon">
+                            <i class="fas fa-external-link-alt"></i>
+                        </span>
+                        <span><a href="http://www.kankou-shimane.com/access/">島根の交通アクセス・ガイド</a></span>
+                    </div>
+                    <div class="icon-text">
+                        <span class="icon">
+                            <i class="fas fa-external-link-alt"></i>
+                        </span>
+                        <span><a href="http://www.pref.shimane.lg.jp/seishonennoie/">島根県立青少年の家 サン・レイク</a></span>
+                    </div>
+                    <div class="icon-text">
+                        <span class="icon">
+                            <i class="fas fa-external-link-alt"></i>
+                        </span>
+                        <span><a href="http://www1.city.matsue.shimane.jp/jigyousha/sangyou/ruby/rabo_open.html">松江オープンソースラボ</a></span>
+                    </div>
+                    <div class="icon-text">
+                        <span class="icon">
+                            <i class="fas fa-external-link-alt"></i>
+                        </span>
+                        <span><a href="http://www.pref.shimane.lg.jp/itsangyo/">島根県 産業振興課 情報産業振興室</a></span>
+                    </div>
+                </div>
+            </div>
+            <div class="column is-small has-text-left">
+                <div>
+                    <div><p><strong>島根県関連リンク</strong></p></div>
+                    <div class="icon-text">
+                        <span class="icon">
+                            <i class="fas fa-external-link-alt"></i>
+                        </span>
+                        <span><a href="http://www.teiju.or.jp/">ふるさと島根定住財団</a></span>
+                    </div>
+                    <div class="icon-text">
+                        <span class="icon">
+                            <i class="fas fa-external-link-alt"></i>
+                        </span>
+                        <span><a href="http://www.gogo-jobcafe-shimane.jp/">ジョブカフェしまね</a></span>
+                    </div>
+                    <div class="icon-text">
+                        <span class="icon">
+                            <i class="fas fa-external-link-alt"></i>
+                        </span>
+                        <span><a href="http://www.shimane-style.com/">しまねスタイル</a></span>
+                    </div>
+                    <div class="icon-text">
+                        <span class="icon">
+                            <i class="fas fa-external-link-alt"></i>
+                        </span>
+                        <span><a href="http://www.kurashimanet.jp/">くらしまねっと</a></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>

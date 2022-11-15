@@ -1,0 +1,86 @@
+---
+title: Ruby合宿 公式サイト
+subtitle: 〜 Ruby合宿2023春 参加者募集中！ 〜
+layout: page
+show_sidebar: false
+hero_image: /image/banners/banner_home.png
+hero_height: is-fullheight
+---
+
+<div class="tile is-ancestor">
+  <div class="tile is-8 is-vertical is-parent">
+    <div class="tile is-child box">
+      <h3>
+        <span class="icon-text">
+          <span class="icon">
+            <i class="fas fa-info-circle"></i>
+          </span>
+          <span>お知らせ（新着）</span>
+        </span>
+      </h3>
+      {% assign news_by_date = site.news | sort: "date" | reverse %}
+      {% for news in news_by_date limit:3 %}
+        <hr class="title-list"/>
+        <div class="title-list">
+          <small>{{ news.date | date: "%Y年%m月%d日" }}</small><br/>
+          <a href="{{ news.url }}">{{ news.title }}</a>
+        </div>
+      {% endfor %}
+      <hr class="title-list-last"/>
+      <div class="has-text-centered">
+        <a href="/news/" class="button is-info">お知らせへ</a>
+      </div>
+    </div>
+    <div class="tile is-child box">
+      <h3>
+        <span class="icon-text">
+          <span class="icon">
+            <i class="fas fa-blog"></i>
+          </span>
+          <span>合宿ブログ（新着）</span>
+        </span>
+      </h3>
+      {% assign blog_by_date = site.blog | sort: "date" | reverse %}
+      {% for blog in blog_by_date limit:3 %}
+        <hr class="title-list"/>
+        <div class="title-list">
+          <small>{{ blog.date | date: "%Y年%m月%d日" }}</small><br/>
+          <a href="{{ blog.url }}">{{ blog.title }}</a>
+        </div>
+      {% endfor %}
+      <hr class="title-list-last"/>
+      <div class="has-text-centered">
+        <a href="/blog/" class="button is-info">合宿ブログへ</a>
+      </div>
+    </div>
+  </div>
+  <div class="tile is-parent">
+    <div class="tile is-child box">
+      <div class="card">
+        <div class="card-content grey lighten-5">
+          <h5 class="red-text center-align">
+            <i class="fa fa-file-image-o" aria-hidden="true"></i>
+            Ruby合宿2023春 ポスター
+          </h5>
+          <div class="center-align">
+            <img class="responsive-img" src="/image/2023-spring/2023_spring_poster.png"/>
+            <ul>
+              <li>
+                <a href="/image/2023-spring/2023_spring_poster.png" download="Ruby合宿2023春ポスター.png">
+                  <i class="fa fa-download" aria-hidden="true"></i>
+                  ポスター <small>(サイズ: 3.4 MB)</small>
+                </a>
+              </li>
+              <li>
+                <a href="/image/2023-spring/2023_spring_pamphlet.png" download="Ruby合宿2023春パンフレット_中面.png">
+                  <i class="fa fa-download" aria-hidden="true"></i>
+                  パンフレット中面 <small>(サイズ: 620 KB)</small>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
