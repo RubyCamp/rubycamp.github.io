@@ -1,0 +1,13 @@
+- name: お知らせ
+  link: /news/
+- name: 応募・開催概要
+  link: /info/
+- name: 合宿ブログ
+  link: /blog/
+- name: 過去の合宿
+  link: /reports/
+- name: お問い合わせ
+  link: /contact/
+- name: 旧サイト
+  link: "https://old.rubycamp.jp"
+  
