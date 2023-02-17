@@ -1,7 +1,7 @@
 ---
 layout: news
 title: Ruby合宿2023春の応募締め切りを1ヶ月延長
-date: 2022-11-17 00:00:00 +0900
+date: 2023-01-17 00:00:00 +0900
 hero_image: /image/banners/banner_contact.png
 hero_height: is-medium
 article: true

@@ -17,25 +17,18 @@ hero_height: is-medium
 
 #### Ruby合宿2023春
 
+<div class="notification is-danger is-light">
+※ 2023年2月17日(金) 17:00をもって、Ruby合宿2023春の応募を終了致しました。皆様のご応募、ありがとうございました。
+</div>
+
 <div class="columns is-centered">
   <div class="column is-12">
     <p class="has-text-centered">
       <span>「しまね電子申請サービス」で応募受付を行います。 開催概要を確認の上、上記ボタンまたは下記のQRコードから応募画面を開き、必要事項を入力してください。</span>
     </p>
     <p class="has-text-centered">
-      <a class="button is-large is-rounded is-link" target="_blank" href="https://s-kantan.jp/pref-shimane-u/offer/offerList_detail.action?tempSeq=12512">応募画面へ</a>
+      <button class="button is-large is-rounded is-link" disabled>応募画面へ</button>
     </p>
-    <div class="block has-text-centered">
-      <figure class="image is-128x128 is-inline-block">
-        <img src="/image/2023-spring/2023_spring_sf_barcode.png" alt="応募QRコード">
-        <figcaption>
-          応募QRコード
-        </figcaption>
-      </figure>
-    </div>
-    <div class="notification is-warning is-light">
-      記入漏れ等、不備があった場合は【差戻し】のメールを送らせていただきます。改めて、再度申請くださいますようお願いいたします。
-    </div>
   </div>
 </div>
 
