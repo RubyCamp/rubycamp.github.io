@@ -138,6 +138,8 @@ Ruby合宿で必要となるRubyの知識を学ぶための講義動画です。
 - Rubyの基礎(後半)：[https://youtu.be/VyTIQ7gHPtM](https://youtu.be/VyTIQ7gHPtM)
 - DXRubyライブラリの利用：[https://youtu.be/iITOjlmKXpU](https://youtu.be/iITOjlmKXpU)
 
+※ YouTubeの [RubyCampチャンネル](https://www.youtube.com/channel/UC_zQBDRY64nWoQ56jcBEW5g){:target="_blank"} には、その他多数の動画がアップされていますので、参考にしてください。
+
 <div class="columns">
   <div class="column">
     <figure class="image">
