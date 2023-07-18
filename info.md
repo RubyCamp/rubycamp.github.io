@@ -57,9 +57,9 @@ Ruby合宿2023夏
 2023年8月21日(月) 〜 2023年8月25日(金) 【4泊5日】
 
 <h4 class="has-text-success-dark">募集期間</h4>
-2023年6月19日(月) 〜 2023年7月18日(火)
-
-※ 募集期間を延長する場合があります。
+<strong style="color: red;">応募締め切りを3週間延長!</strong>  
+2023年6月19日(月) 〜 ~~2023年7月18日(火)~~　<strong style="color: red;">2023年8月8日(火)</strong>  
+<span style="color: red;">※ 定員に達した時点で応募を終了します。</span>  
 
 <h4 class="has-text-success-dark">開催場所</h4>
 島根県立青少年の家サン・レイク
