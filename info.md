@@ -15,11 +15,7 @@ hero_height: is-medium
   </span>
 </h3>
 
-<h4 class="has-text-danger-dark">Ruby合宿2023夏</h4>
-
-<div class="notification is-danger is-light">
-※ 2023年8月8日(火) 23:59をもって、Ruby合宿2023夏の応募を終了致しました。皆様のご応募、ありがとうございました。
-</div>
+<h4 class="has-text-danger-dark">Ruby合宿2024春</h4>
 
 <div class="columns is-centered">
   <div class="column is-12">
@@ -27,8 +23,19 @@ hero_height: is-medium
       <span>開催概要を確認の上、上記ボタンまたは下記のQRコードから応募画面を開き、必要事項を入力してください。</span>
     </p>
     <p class="has-text-centered">
-      <button class="button is-large is-rounded is-link" disabled>応募画面へ</button>
+      <a class="button is-large is-rounded is-link" target="_blank" href="https://forms.gle/W7ByQZx9pG7eZxTW6">応募画面へ</a>
     </p>
+    <div class="block has-text-centered">
+      <figure class="image is-128x128 is-inline-block">
+        <img src="/image/2024-spring/2024_spring_sf_barcode.png" alt="応募QRコード">
+        <figcaption>
+          応募QRコード
+        </figcaption>
+      </figure>
+    </div>
+    <div class="notification is-warning is-light">
+      記入漏れ等、不備があった場合は【差戻し】のメールを送らせていただきます。改めて、再度申請くださいますようお願いいたします。
+    </div>
   </div>
 </div>
 
@@ -44,15 +51,15 @@ hero_height: is-medium
 </h3>
 
 <h4 class="has-text-success-dark">タイトル</h4>
-Ruby合宿2023夏
+Ruby合宿2024春
 
 <h4 class="has-text-success-dark">開催期間</h4>
-2023年8月21日(月) 〜 2023年8月25日(金) 【4泊5日】
+2024年3月4日(月) 〜 2024年3月8日(金) 【4泊5日】
 
 <h4 class="has-text-success-dark">募集期間</h4>
-<strong style="color: red;">応募締め切りを3週間延長!</strong>  
-2023年6月19日(月) 〜 ~~2023年7月18日(火)~~　<strong style="color: red;">2023年8月8日(火)</strong>  
-<span style="color: red;">※ 定員に達した時点で応募を終了します。</span>  
+2023年11月14日(火) 〜 2024年1月16日(火)
+
+<span style="color: red;">※ 募集期間を延長する場合があります。</span>
 
 <h4 class="has-text-success-dark">開催場所</h4>
 島根県立青少年の家サン・レイク
@@ -74,54 +81,19 @@ Ruby合宿では、数名のチームでテーマに沿ったプログラムを�
 また、Rubyの開発者まつもとゆきひろ氏の講演会、島根県内IT企業との交流会や企業視察なども行います。  
 
 <h4 class="has-text-success-dark">テーマ</h4>
-__今回のテーマは、「ロボットを使った検索脱出ゲーム」です。__
-
-ロボット（レゴ・マインドストームEV3）を2台使います。  
-「ナビゲーター」ロボットが、センサーを使ってフィールドを探索し、マップを作成します。  
-そのマップ情報から、「プレイヤー」ロボットを正しいルートでゴールに導きます。  
-発表会では、各チームでゲームを実演し、得点を競います。
-
-__Ruby合宿2017春の様子（ロボットテーマ）__
-
-<div class="columns">
-  <div class="column">
-    <figure class="image">
-      <img src="/image/info/theme_1.jpg" alt="発表会ステージ">
-      <figcaption>
-        発表会ステージ
-      </figcaption>
-    </figure>
-  </div>
-  <div class="column">
-    <figure class="image">
-      <img src="/image/info/theme_2.jpg" alt="ロボット操作中">
-      <figcaption>
-        ロボット操作中
-      </figcaption>
-    </figure>
-  </div>
-  <div class="column">
-    <figure class="image">
-      <img src="/image/info/theme_3.jpg" alt="フィールド">
-      <figcaption>
-        フィールド
-      </figcaption>
-    </figure>
-  </div>
-</div> 
+__今回のテーマは、「2Dシューティングゲーム」の作成です。__
 
 <h4 class="has-text-success-dark">対象</h4>
 学生(大学・高専・専門学校・高校等)または25歳未満(令和5年4月1日時点)の求職中 の人で、以下の条件を満たす人  
 - チーム開発に興味のある人
 - 将来、ソフト系IT産業で働きたいと考えている人
-- 主催者が行うメール等でのアンケートにご協力いただける人
 
 ※ ただし、応募者多数の場合は、島根県在住または島根県出身の人を優先します。
 
 <h4 class="has-text-success-dark">事前講義</h4>
 Ruby合宿開催前に、事前講義を行います。  
-- 2023年8月1日(火) 9:00〜12:00 ： Git入門
-- 2023年8月1日(火) 13:00〜16:00 ： プログラム作成ポイント
+- 2024年2月19日(月) 9:00〜12:00 ： Git・GitHub入門
+- 2024年2月19日(月) 13:00〜16:00 ： プログラム作成ポイント
 
 ※ 事前講義は、Zoomで行います。
 
@@ -171,6 +143,6 @@ Ruby合宿で必要となるRubyの知識を学ぶための講義動画です。
   </span>
 </h3>
 
-<h4 class="has-text-danger-dark">Ruby合宿2023夏</h4>
+<h4 class="has-text-danger-dark">Ruby合宿2024春</h4>
 
-![Ruby合宿2023夏スケジュール](/image/2023-summer/2023_summer_schedule.png "Ruby合宿2023夏スケジュール")
+![Ruby合宿2024春スケジュール](/image/2024-spring/2024_spring_schedule.png "Ruby合宿2024春スケジュール")
