@@ -20,7 +20,7 @@ hero_height: is-medium
 <div class="columns is-centered">
   <div class="column is-12">
     <p class="has-text-centered">
-      <span>開催概要を確認の上、上記ボタンまたは下記のQRコードから応募画面を開き、必要事項を入力してください。</span>
+      <span>開催概要を確認の上、下記のボタンまたはQRコードから応募画面を開き、必要事項を入力してください。</span>
     </p>
     <p class="has-text-centered">
       <a class="button is-large is-rounded is-link" target="_blank" href="https://forms.gle/Gp43P1D47KFUPD919">応募画面へ</a>
@@ -62,9 +62,11 @@ Ruby合宿2024夏
 <span style="color: red;">※ 募集期間を延長する場合があります。</span>
 
 <h4 class="has-text-success-dark">開催場所</h4>
-島根県立青少年の家サン・レイク
+島根県立青少年の家サン・レイク  
+（住所：島根県出雲市小境町1991-2）
 
-※ 初日の集合場所は 松江駅前「松江オープンソースラボ」
+※ 初日の集合場所は 松江駅前「松江オープンソースラボ」  
+（住所：島根県松江市朝日町478-18 松江テルサ別館2階）
 
 <h4 class="has-text-success-dark">定員</h4>
 30名程度  
@@ -113,8 +115,8 @@ __今回のテーマは、「Gosuライブラリを用いたカードゲーム�
 
 <h4 class="has-text-success-dark">事前講義</h4>
 Ruby合宿開催前に、事前講義を行います。  
-- 2024年8月6日(水) 9:00〜12:00 ： Git・GitHub入門
-- 2024年8月6日(水) 13:00〜16:00 ： プログラム作成ポイント
+- 2024年8月6日(火) 9:00〜12:00 ： Git・GitHub入門
+- 2024年8月6日(火) 13:00〜16:00 ： プログラム作成ポイント
 
 ※ 事前講義は、Zoomで行います。
 
