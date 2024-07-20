@@ -21,9 +21,23 @@ hero_height: is-medium
 {% assign reports_by_date = site.reports | sort: "date" %}
 {% for reports in reports_by_date reversed %}
 <hr class="title-list"/>
-  <div class="title-list">
-    <small>{{ reports.date | date: "%Y年%m月%d日" }}</small><br/>
-    <a href="{{ reports.url }}">{{ reports.title }}</a>
+<div class="title-list">
+  <div class="box">
+    <article class="media">
+      <div class="media-left">
+        <figure class="image is-64x64">
+          <img class="is-rounded" src="{{ reports.icon }}" alt="Image" />
+        </figure>
+      </div>
+      <div class="media-content">
+        <div class="content">
+          <p class="is-size-3">
+            <a href="{{ reports.url }}">{{ reports.title }}</a>
+          </p>
+        </div>
+      </div>
+    </article>
   </div>
+</div>
 {% endfor %}
 <hr class="title-list-last"/>
