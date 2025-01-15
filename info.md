@@ -57,9 +57,9 @@ Ruby合宿2025春
 2025年3月3日(月) 〜 2025年3月7日(金) 【4泊5日】
 
 <h4 class="has-text-success-dark">募集期間</h4>
-2024年11月15日(金) 〜 2025年1月15日(水)
-
-<span style="color: red;">※ 募集期間を延長する場合があります。</span>
+<strong style="color: red;">応募締め切りを1ヶ月延長!</strong>  
+2024年11月15日(金) 〜 ~~2025年1月15日(水)~~　<strong style="color: red;">2025年2月14日(金)</strong>  
+<span style="color: red;">※ 定員に達した時点で応募を終了します。</span>  
 
 <h4 class="has-text-success-dark">開催場所</h4>
 島根県立青少年の家サン・レイク  
