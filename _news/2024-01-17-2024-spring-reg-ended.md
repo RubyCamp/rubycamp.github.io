@@ -5,6 +5,7 @@ date: 2024-01-17 6:40:00 +0900
 hero_image: /image/banners/banner_contact.png
 hero_height: is-medium
 article: true
+published: false
 ---
 
 **Ruby合宿2024春の応募を終了しました。**

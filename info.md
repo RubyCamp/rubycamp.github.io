@@ -20,7 +20,7 @@ hero_height: is-medium
 <div class="columns is-centered">
   <div class="column is-12">
     <p class="has-text-centered">
-      <span>開催概要を確認の上、上記ボタンまたは下記のQRコードから応募画面を開き、必要事項を入力してください。</span>
+      <span>開催概要を確認の上、上記ボタンまたは下記の二次元コードから応募画面を開き、必要事項を入力してください。</span>
     </p>
     <p class="has-text-centered">
       <a class="button is-large is-rounded is-link" target="_blank" href="https://forms.gle/zL3gAKMzBAwRhezx6">応募画面へ</a>
@@ -29,12 +29,12 @@ hero_height: is-medium
       <figure class="image is-128x128 is-inline-block">
         <img src="/image/2025/2025_sf_barcode.png" alt="応募QRコード">
         <figcaption>
-          応募QRコード
+          応募二次元コード
         </figcaption>
       </figure>
     </div>
     <div class="notification is-warning is-light">
-      記入漏れ等、不備があった場合は【差戻し】のメールを送らせていただきます。改めて、再度申請くださいますようお願いいたします。
+      記入漏れ等、不備があった場合は【差戻し】のメールを送らせていただきます。メールをご確認後、速やかに再度申請くださいますようお願いいたします。
     </div>
   </div>
 </div>
@@ -55,11 +55,10 @@ Ruby合宿2025
 
 <h4 class="has-text-success-dark">開催期間</h4>
 2025年8月25日(月) 〜 2025年8月29日(金) 【4泊5日】  
-ミニイベントも2026年2月開催予定（詳細は後日案内）  
+2026年2月頃ミニイベントも開催予定（詳細は後日案内）  
 
 <h4 class="has-text-success-dark">募集期間</h4>
 2025年6月16日(月) 〜 2025年7月25日(金)  
-<span style="color: red;">※ 募集期間を延長する場合があります。</span>  
 
 <h4 class="has-text-success-dark">開催場所</h4>
 __宿泊・交流拠点__  
@@ -71,7 +70,7 @@ __アプリ開発拠点__
 （島根県松江市朝日町478番地18 松江テルサ別館2階）  
 
 <h4 class="has-text-success-dark">概要</h4>
-島根県内のIT企業とチームを組み、実際の地域課題の解決をテーマに、「Ruby on Rails」を使用したWebアプリの開発に挑戦。  
+島根県内のIT企業とチームを組み、地域課題の解決をテーマに、「Ruby on Rails」を使用したWebアプリの開発に挑戦。  
 スキルアップにも、将来の働き方を考える機会としても、価値のある５日間です。  
 
 <h4 class="has-text-success-dark">演習テーマ</h4>
@@ -95,7 +94,7 @@ __しまね旅を楽しくするデジタルマップ__
 
 <h4 class="has-text-success-dark">専用Slackを利用したつながり支援&就活サポート</h4>
 就活前の情報収集やインターン相談にも使える！  
-合宿中に使うSlackは、そのまま就活直前まで使えます。企業の人や他の参加者と気軽につながり続けながら、就活の情報を集めたり、インターンの相談をしたりもOK！  
+合宿中に使うSlackは、そのまま就活直前（R8年3月ごろ）まで使えます。企業の人や他の参加者と気軽につながり続けながら、就活の情報を集めたり、インターンの相談をしたりもOK！
 
 ---
 

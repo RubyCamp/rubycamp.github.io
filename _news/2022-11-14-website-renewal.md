@@ -5,6 +5,7 @@ date: 2022-11-14 23:59:00 +0900
 hero_image: /image/banners/banner_contact.png
 hero_height: is-medium
 article: true
+published: false
 ---
 
 **Ruby合宿サイトをリニューアルしました。**

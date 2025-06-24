@@ -14,10 +14,6 @@ hero_height: is-medium
   </span>
 </h3>
 
-<div class="notification is-info is-light">
-  旧サイトの「お知らせ」は、<a href="https://old.rubycamp.jp/news/">こちら</a>からご覧できます。
-</div>
-
 {% assign news_by_date = site.news | sort: "date" %}
 {% for news in news_by_date reversed %}
 <hr class="title-list"/>
