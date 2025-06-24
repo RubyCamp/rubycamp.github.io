@@ -35,22 +35,22 @@ hero_height: is-fullheight
       <h3>
         <span class="icon-text has-text-info-dark">
           <span class="icon">
-            <i class="fas fa-blog"></i>
+            <i class="fas fa-image"></i>
           </span>
-          <span>合宿ブログ（新着）</span>
+          <span>過去の合宿の様子（新着）</span>
         </span>
       </h3>
-      {% assign blog_by_date = site.blog | sort: "date" | reverse %}
-      {% for blog in blog_by_date limit:3 %}
+      {% assign reports_by_date = site.reports | sort: "date" | reverse %}
+      {% for reports in reports_by_date limit:3 %}
         <hr class="title-list"/>
         <div class="title-list">
-          <small>{{ blog.date | date: "%Y年%m月%d日" }}</small><br/>
-          <a href="{{ blog.url }}">{{ blog.title }}</a>
+          <small>{{ reports.date | date: "%Y年%m月%d日" }}</small><br/>
+          <a href="{{ reports.url }}">{{ reports.title }}</a>
         </div>
       {% endfor %}
       <hr class="title-list-last"/>
       <div class="has-text-centered">
-        <a href="/blog/" class="button is-info">合宿ブログへ</a>
+        <a href="/reports/" class="button is-info">過去の合宿の様子へ</a>
       </div>
     </div>
   </div>

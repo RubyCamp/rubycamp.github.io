@@ -5,6 +5,7 @@ date: 2023-02-17 17:00:00 +0900
 hero_image: /image/banners/banner_contact.png
 hero_height: is-medium
 article: true
+published: false
 ---
 
 **Ruby合宿2023春の応募を終了しました。**

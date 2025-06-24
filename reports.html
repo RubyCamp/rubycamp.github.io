@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 過去の合宿
+title: 過去の合宿の様子
 hero_image: /image/banners/banner_report.png
 hero_height: is-medium
 ---
@@ -10,13 +10,9 @@ hero_height: is-medium
     <span class="icon">
       <i class="fas fa-image"></i>
     </span>
-    <span>過去の合宿</span>
+    <span>過去の合宿の様子</span>
   </span>
 </h3>
-
-<div class="notification is-info is-light">
-  旧サイトの「過去の合宿」は、<a href="https://old.rubycamp.jp/report/">こちら</a>からご覧できます。
-</div>
 
 {% assign reports_by_date = site.reports | sort: "date" %}
 {% for reports in reports_by_date reversed %}
