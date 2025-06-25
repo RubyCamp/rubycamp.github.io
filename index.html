@@ -15,7 +15,7 @@ hero_height: is-fullheight
           <span class="icon">
             <i class="fas fa-info-circle"></i>
           </span>
-          <span>お知らせ（新着）</span>
+          <span>お知らせ</span>
         </span>
       </h3>
       {% assign news_by_date = site.news | sort: "date" | reverse %}
@@ -29,28 +29,6 @@ hero_height: is-fullheight
       <hr class="title-list-last"/>
       <div class="has-text-centered">
         <a href="/news/" class="button is-info">お知らせへ</a>
-      </div>
-    </div>
-    <div class="tile is-child box">
-      <h3>
-        <span class="icon-text has-text-info-dark">
-          <span class="icon">
-            <i class="fas fa-image"></i>
-          </span>
-          <span>過去の合宿の様子（新着）</span>
-        </span>
-      </h3>
-      {% assign reports_by_date = site.reports | sort: "date" | reverse %}
-      {% for reports in reports_by_date limit:3 %}
-        <hr class="title-list"/>
-        <div class="title-list">
-          <small>{{ reports.date | date: "%Y年%m月%d日" }}</small><br/>
-          <a href="{{ reports.url }}">{{ reports.title }}</a>
-        </div>
-      {% endfor %}
-      <hr class="title-list-last"/>
-      <div class="has-text-centered">
-        <a href="/reports/" class="button is-info">過去の合宿の様子へ</a>
       </div>
     </div>
   </div>
