@@ -103,8 +103,10 @@ __しまね旅を楽しくするデジタルマップ__
     <span class="icon">
       <i class="fas fa-calendar"></i>
     </span>
-    <span>タイムスケジュール</span>
+    <span>合宿のスケジュール（予定）</span>
   </span>
 </h3>
 
 ![Ruby合宿2025タイムスケジュール](/image/2025/2025_schedule.png "Ruby合宿2025タイムスケジュール")
+
+※ 詳細スケジュールは後日公開します
