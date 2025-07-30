@@ -17,26 +17,10 @@ hero_height: is-medium
 
 <h1 class="has-text-centered has-text-danger-dark">Ruby合宿2025</h1>
 
-<div class="columns is-centered">
-  <div class="column is-12">
-    <p class="has-text-centered">
-      <span>開催概要を確認の上、上記ボタンまたは下記の二次元コードから応募画面を開き、必要事項を入力してください。</span>
-    </p>
-    <p class="has-text-centered">
-      <a class="button is-large is-rounded is-link" target="_blank" href="https://forms.gle/zL3gAKMzBAwRhezx6">応募画面へ</a>
-    </p>
-    <div class="block has-text-centered">
-      <figure class="image is-128x128 is-inline-block">
-        <img src="/image/2025/2025_sf_barcode.png" alt="応募QRコード">
-        <figcaption>
-          応募二次元コード
-        </figcaption>
-      </figure>
-    </div>
-    <div class="notification is-warning is-light">
-      記入漏れ等、不備があった場合は【差戻し】のメールを送らせていただきます。メールをご確認後、速やかに再度申請くださいますようお願いいたします。
-    </div>
-  </div>
+<div class="notification is-info is-light">
+  <p class="has-text-centered">
+    2025年7月25日(金) 23:59をもって、Ruby合宿2025の応募を終了致しました。皆様のご応募、ありがとうございました。
+  </p>
 </div>
 
 ---
