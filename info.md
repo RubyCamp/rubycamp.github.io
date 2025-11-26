@@ -6,91 +6,80 @@ hero_image: /image/banners/banner_info.png
 hero_height: is-medium
 ---
 
-<h3 class="block">
-  <span class="icon-text has-text-info-dark">
-    <span class="icon">
-      <i class="fas fa-file-alt"></i>
-    </span>
-    <span>応募</span>
-  </span>
-</h3>
-
-<h1 class="has-text-centered has-text-danger-dark">Ruby合宿2025</h1>
-
-<div class="notification is-info is-light">
-  <p class="has-text-centered">
-    2025年7月25日(金) 23:59をもって、Ruby合宿2025の応募を終了致しました。皆様のご応募、ありがとうございました。
-  </p>
-</div>
+<h1 class="has-text-centered has-text-danger-dark">Ruby合宿2025アフタープログラム『しまね IT TRIP』 参加者募集！</h1>
+<p>今夏開催した「Ruby合宿2025（8/25~29）」のアフタープログラムとなる『しまねIT TRIP』は、島根県内でデジタル化・DXを支援しているITエンジニアや、デジタル化に挑戦している企業の話を聞き、現場を体感する2日間のプログラムです。<br>
+初日には県内企業の現場を訪ねるスタディツアーと交流会、2日目には参加者によるLT会を開催する予定です。2日間を通じて、夏の「Ruby合宿」とは異なる体験や企業との交流を通じてITエンジニアのリアルな世界を体感してください！</p>
 
 ---
 
-<h3 class="block" class="has-text-info-dark">
-  <span class="icon-text">
-    <span class="icon">
-      <i class="fas fa-gem"></i>
-    </span>
-    <span>開催概要</span>
-  </span>
-</h3>
-
-<h4 class="has-text-success-dark">タイトル</h4>
-Ruby合宿2025  
-
-<h4 class="has-text-success-dark">開催期間</h4>
-2025年8月25日(月) 〜 2025年8月29日(金) 【4泊5日】  
-2026年2月頃ミニイベントも開催予定（詳細は後日案内）  
-
-<h4 class="has-text-success-dark">募集期間</h4>
-2025年6月16日(月) 〜 2025年7月25日(金)  
-
-<h4 class="has-text-success-dark">開催場所</h4>
-__宿泊・交流拠点__  
-煎 SEN  
-（島根県松江市朝日町481番地1）  
-
-__アプリ開発拠点__  
-松江オープンソースラボ  
-（島根県松江市朝日町478番地18 松江テルサ別館2階）  
-
-<h4 class="has-text-success-dark">概要</h4>
-島根県内のIT企業とチームを組み、地域課題の解決をテーマに、「Ruby on Rails」を使用したWebアプリの開発に挑戦。  
-スキルアップにも、将来の働き方を考える機会としても、価値のある５日間です。  
-
-<h4 class="has-text-success-dark">演習テーマ</h4>
-__しまね旅を楽しくするデジタルマップ__  
-そば、温泉、神話、建築など、観光コンテンツの中からチームでテーマを選び、「スマートな観光マップ」を開発します。
-
-<h4 class="has-text-success-dark">定員</h4>
-30名程度  
-
-<h4 class="has-text-success-dark">参加費</h4>
-2,000円（食事つき、傷害保険料込）  
-希望者は+5,000円で宿泊可能  
-※ 宿泊枠：12名迄  
-（県内出身の県外在住者・県内遠方在住者を優先させていただきます ※先着順）  
-※ 価格は全て消費税込  
-
-<h4 class="has-text-success-dark">対象</h4>
-学生（大学・高専・専門学校（高校生除く））または25歳未満（令和7年4月1日時点）の求職中の人で、以下の条件を満たす人  
-- チーム開発に興味のある人
-- 将来IT企業などで働きたいと考えている人
-
-<h4 class="has-text-success-dark">専用Slackを利用したつながり支援&就活サポート</h4>
-就活前の情報収集やインターン相談にも使える！  
-合宿中に使うSlackは、そのまま就活直前（R8年3月ごろ）まで使えます。企業の人や他の参加者と気軽につながり続けながら、就活の情報を集めたり、インターンの相談をしたりもOK！
+<h4 class="has-text-success-dark">■日程</h4>
+<p>2026年2月28日(土)〜3月1日(日)</p>
+<p>※限定12名宿泊可</p>
 
 ---
 
-<h3 class="block" class="has-text-info-dark">
-  <span class="icon-text">
-    <span class="icon">
-      <i class="fas fa-calendar"></i>
-    </span>
-    <span>合宿のスケジュール（予定）</span>
-  </span>
-</h3>
+<h4 class="has-text-success-dark">■会場</h4>
+<p>ワーク・交流・宿泊拠点：煎 SEN（島根県松江市朝日町481番地1）</p>
+<p>※1日目にはバスでDX先進地を巡るスタディツアーを実施します。</p>
 
-![Ruby合宿2025タイムスケジュール](/image/2025/2025_schedule.png "Ruby合宿2025タイムスケジュール")
+---
 
-※ 詳細スケジュールは後日公開します
+<h4 class="has-text-success-dark">■プログラム概要（予定）</h4>
+<h5>Day1|</h5>
+<p><strong>13:00　煎 SEN 3F集合/オープニング</strong></p>
+<p><strong>13:10〜14:00　社会人エンジニア座談会（＠煎）</strong></p>
+<p>~地域デジタル化を進める面白さと難しさ」（予定）~</p>
+<p>県内の社会人エンジニアが地域と関わる中で感じる「デジタル化を進める面白さ」と「難しさ」を語ります。</p>
+<p><strong>14:15〜15:00　煎 SEN~（バス移動）~由志園</strong></p>
+<p><strong>15:10〜　由志園の園内見学</strong></p>
+<p><strong>15:45〜　トークセッション</strong></p>
+<p>~由志園のデジタル化への道のりとこれから~</p>
+<p>＜視察先＞由志園</p>
+<p>松江市・大根島にある日本庭園「由志園」は、花と光の演出で人気の観光施設です。最近では、POS連携や「雲海システム」のIoT化など、庭園をデジタルで進化させる新しい挑戦を進めています。</p>
+<p><strong>16:45〜17:30　由志園~（バス移動）~煎 SEN</strong></p>
+<p><strong>17:30〜18:00　ふりかえりワーク</strong></p>
+<p><strong>18:30〜19:30　交流会・1日目解散</strong></p>
+<p><strong>21:00　煎 SEN 閉館</strong></p>
+<br>
+<h5>Day2|</h5>
+<p><strong>10:00　オープニング / 学生×企業のLT会</strong></p>
+<p>Ruby合宿参加学生と、社会人エンジニアが登壇・参加できるLT会を開催します。</p>
+<p>テーマ例：</p>
+<ul>
+  <li>個人開発・学校での制作アプリ紹介</li>
+  <li>普段使っている技術やツール</li>
+  <li>仕事で行き詰まり、頑張って解決したこと　など</li>
+</ul>
+<p><strong>12:00　昼食会・学生×企業のLT会 後半戦</strong></p>
+<p><strong>14:00　クロージング</strong></p>
+
+---
+
+<h4 class="has-text-success-dark">■募集概要</h4>
+<p><strong>対象</strong></p>
+<p>※下記いずれかに該当し、かつソフト系IT企業への就職を検討している方</p>
+<p>□ 大学・高等専門学校・専門学校に在籍し、将来の進路を検討中</p>
+<p>□ 令和7年4月1日時点で25歳未満で、求職中</p>
+<p><strong>定員</strong>：30名</p>
+<p>※うち宿泊枠12名</p>
+<p><strong>参加費</strong>：無料</p>
+
+---
+
+<h4 class="has-text-success-dark">■お申し込み方法</h4>
+<p>以下のフォームからお申し込みください。</p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSffchkDUkAyvTCkQKlEuqub2nC_5aBgxtvfi-TNO3TK251eLA/viewform?usp=header">https://docs.google.com/forms/d/e/1FAIpQLSffchkDUkAyvTCkQKlEuqub2nC_5aBgxtvfi-TNO3TK251eLA/viewform?usp=header</a></p>
+
+---
+
+<h4 class="has-text-success-dark">■地域の社会人エンジニアの皆様へ（LT会のみ）</h4>
+<p>プログラムに参加している企業様だけでなく、県内でITエンジニアとして働いている皆様にもご参加いただけます。</p>
+<p>参加をご希望の方は下記事務局までお問い合わせください。</p>
+
+---
+
+<h4 class="has-text-success-dark">■主催・運営</h4>
+<p>主催：島根県</p>
+<p>事務局：株式会社graphs</p>
+<p>島根県松江市朝日町481番地1</p>
+<p>Mail：rubycamp@graphs.co.jp</p>
