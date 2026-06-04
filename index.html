@@ -39,11 +39,16 @@ no_title: true
         <div class="card-content grey lighten-5">
           <h5 class="red-text center-align">
             <i class="fa fa-images" aria-hidden="true"></i>
-            しまね IT TRIP
+            Ruby合宿2026 チラシ（PDF）
           </h5>
           <div class="center-align">
-            <img class="responsive-img" src="/image/2025/shimane_it_trip.png"/>
-            <a href="/image/2025/shimane_it_trip.pdf" download="しまね_IT_TRIP.pdf">
+            <img class="responsive-img" src="/image/2026/2026_pamphlet_a.png"  onclick="viewer.showModal()"/>
+            <dialog id="viewer">
+              <img src="/image/2026/2026_pamphlet.png" alt="拡大画像" style="max-width:90vw; max-height:90vh;">
+              <br>
+              <button onclick="viewer.close()">閉じる</button>
+            </dialog>
+            <a href="/image/2026/rubycamp2026.pdf" download="Ruby合宿2026.pdf">
               <i class="fa fa-download" aria-hidden="true"></i>
               PDF
             </a>
